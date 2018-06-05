@@ -1,3 +1,3 @@
 print("Hello World.")
-print("This is hogehoge.py");
-
+print("This is hogehoge.py")
+print("I am a student")
